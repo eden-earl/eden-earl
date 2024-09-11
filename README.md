@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://bensmanf-portfolio.netlify.app)**
+- 🙋‍♂️ All about me is at **[My Website](https://bensmanf.netlify.app)**
 
 - 🔭 I’m currently working on `Software Engineering`.
 
