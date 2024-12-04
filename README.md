@@ -4,12 +4,6 @@
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<div align="center">
-  <img src ="./banner.png" />
-  
-</div>
-
- <br/>
 
 ## 👨🏻‍💻 About Me:
 
@@ -30,6 +24,15 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I waste most of my time remote working at home
 
 ## 🛠️ Technologies and Tools I use:
+![Programming Language](https://skillicons.dev/icons?i=typescript,golang,python,java)
+
+### 🔭 Stack I use
+
+![Stack I Use](https://skillicons.dev/icons?i=mui,tailwindcss,styledcomponents,nodejs,react,nextjs,vite,supabase,mongodb,mysql,postgres&perline=11)
+
+### 🛠 Tools I use
+
+![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell&perline=13)
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
